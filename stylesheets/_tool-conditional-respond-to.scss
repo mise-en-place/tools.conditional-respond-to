@@ -2,6 +2,8 @@
 // CONDITIONAL RESPOND TO TOOL
 // ==========================================================================
 
+@import "breakpoint";
+
 @mixin conditional-respond-to($bp, $condition:false) {
     @if $condition {
         @include respond-to($bp) {
