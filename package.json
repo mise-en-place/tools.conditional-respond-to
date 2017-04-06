@@ -1,15 +1,9 @@
 {
   "name": "mep-tools.conditional-respond-to",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Conditional Respond To Tool",
   "main": "stylesheets/_tool-conditional-respond-to.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "tool-conditional-respond-to",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],

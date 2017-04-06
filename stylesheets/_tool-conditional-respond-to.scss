@@ -2,7 +2,7 @@
 // CONDITIONAL RESPOND TO TOOL
 // ==========================================================================
 
-@import "breakpoint";
+@import "~breakpoint-sass";
 
 @mixin conditional-respond-to($bp, $condition:false) {
     @if $condition {
