@@ -1,5 +1,5 @@
 {
-  "name": "mep-tools.conditional-respond-to",
+  "name": "@mise-en-place/tools.conditional-respond-to",
   "version": "2.0.0",
   "description": "Conditional Respond To Tool",
   "main": "stylesheets/_tool-conditional-respond-to.scss",
